@@ -43,7 +43,8 @@ You must compile Solidity code into machine-readable bytecode before deployment.
 
 ![Remix Compiler Success Checkmark](compiler-success.png)
 
-[!IMPORTANT] You must remain on the Solidity Compiler tab to access the compile command. The button is not available in the Search or File Explorer tabs.
+> [!IMPORTANT]
+> You must remain on the **Solidity Compiler** tab to access the compile command. The button is not available in the **Search** or **File Explorer** tabs.
 
 ## Step 4: Deploy and Interact
 1. In the left navigation pane, choose the Deploy & Run Transactions icon (Ethereum logo with an arrow).
@@ -73,6 +74,5 @@ This project highlights a specific set of technical communication and Web3 compe
 * **Web3 Tooling:** Hands-on experience navigating the Ethereum developer ecosystem (Solidity, Remix IDE, Virtual Machines).
 * **Information Architecture:** Organizing complex technical procedures into a logical, scannable hierarchy with visual aids.
 
-,---
 ---
 [⬆ Back to Top](#deploy-a-smart-contract-with-remix-ide)
